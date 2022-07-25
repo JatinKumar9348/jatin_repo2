@@ -12,14 +12,9 @@ public class Practice1Test {
      System.out.println("git change   1");
 
      System.out.println("git change 1");
-<<<<<<< HEAD
      System.out.println("change 2");
      
 
-     //System.out.println("change 2");
-=======
-     System.out.println("change 3");
->>>>>>> sdet
 	}
 
 }
