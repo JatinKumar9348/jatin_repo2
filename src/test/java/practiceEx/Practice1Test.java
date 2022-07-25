@@ -9,7 +9,7 @@ public class Practice1Test {
      int c=a+b;
      System.out.println(c);
      System.out.println("git change 1");
-     System.out.println("change 2");
+     //System.out.println("change 2");
 	}
 
 }
